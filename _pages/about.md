@@ -39,8 +39,7 @@ A Data-Driven Risk Assessment Method for Autonomous Vehicles Without Expert Rule
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.08* 2022 RoboMaster Robotics Competition National 3rd Prize.  
 
 # 📖 Educations
 - *2024.09 - Present*, Ph.D., Automotive Engineering, Shanghai Innovation Institute.
