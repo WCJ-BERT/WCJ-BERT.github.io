@@ -39,12 +39,13 @@ A Data-Driven Risk Assessment Method for Autonomous Vehicles Without Expert Rule
 </div>
 
 # 🎖 Honors and Awards
-- *2022.08* 2022 RoboMaster Robotics Competition National 3rd Prize.  
+- *2022.08* 2022 RoboMaster Robotics Competition National 3rd Prize. 
+- *2022.12* 2022 Shanghai Government Scholarship (SGS). 
 
 # 📖 Educations
 - *2024.09 - Present*, Ph.D., Automotive Engineering, Shanghai Innovation Institute.
 - *2023.09 - Present*, Ph.D., Automotive Engineering, School of Automotive Studies, Tongji University.
-- *2019.09 - 2023.06*, Bachelor(cum laude), Intelligent Manufacturing Engineering, School of Mechatronic Engineering and Automation, Shanghai University. 
+- *2019.09 - 2023.06*, B.E.(cum laude), Intelligent Manufacturing Engineering, School of Mechatronic Engineering and Automation, Shanghai University. 
 
 # 💻 Internships
 - *2025.06 - 2025.12*, Research Intern, Yinwang, China.
