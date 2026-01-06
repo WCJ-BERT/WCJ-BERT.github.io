@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a Ph.D. student at Tongji University and Shanghai Innovation Institute, majoring in Automotive Engineering. Currently, I'm supervised by Prof. [Hongyang Li](https://scholar.google.com/citations?user=Hfrih1EAAAAJ&hl=zh-CN) and [Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ&hl=zh-CN). 
+Hi, I am a Ph.D. student at Tongji University and Shanghai Innovation Institute, majoring in Automotive Engineering. 
+
+Currently, I'm supervised by Prof. [Hongyang Li](https://scholar.google.com/citations?user=Hfrih1EAAAAJ&hl=zh-CN) and [Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ&hl=zh-CN). 
 
 My research interest includes Autonomous Driving and Reinforcement learning.(<a href='https://scholar.google.com/citations?user=35xHlDUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
