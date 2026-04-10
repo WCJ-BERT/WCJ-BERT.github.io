@@ -43,15 +43,15 @@ A Data-Driven Risk Assessment Method for Autonomous Vehicles Without Expert Rule
 
 ## Journal
 
-[Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/11353028) Haochen Liu, Tianyu Li, Haohan Yang, Li Chen, **Caojun Wang**, Ke Guo, Haochen Tian, Hongchen Li, Hongyang Li, Chen Lv, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2026
+- [Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/11353028) Haochen Liu, Tianyu Li, Haohan Yang, Li Chen, **Caojun Wang**, Ke Guo, Haochen Tian, Hongchen Li, Hongyang Li, Chen Lv, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2026
 
-[Quantitative Representation of Scenario Difficulty for Autonomous Driving Based on Adversarial Policy Search](https://www.proquest.com/openview/b9f5049ba10af639ce682a24a7fa7c0d/1?pq-origsite=gscholar&cbl=7427744) Shuo Yang, **Caojun Wang**, Yuanjian Zhang, Yuming Yin, Yanjun Huang, Shengbo Eben Li, Hong Chen, Research, 2024
+- [Quantitative Representation of Scenario Difficulty for Autonomous Driving Based on Adversarial Policy Search](https://www.proquest.com/openview/b9f5049ba10af639ce682a24a7fa7c0d/1?pq-origsite=gscholar&cbl=7427744) Shuo Yang, **Caojun Wang**, Yuanjian Zhang, Yuming Yin, Yanjun Huang, Shengbo Eben Li, Hong Chen, Research, 2024
 
 ## Conference
 
-[Pseudo-Simulation for Autonomous Driving](https://arxiv.org/abs/2506.04218) Wei Cao, Marcel Hallgarten, Tianyu Li, Daniel Dauner, Xunjiang Gu, **Caojun Wang**, Yakov Miron, Marco Aiello, Hongyang Li, Igor Gilitschenski, Boris Ivanovic, Marco Pavone, Andreas Geiger, Kashyap Chitta, Conference on Robot Learning (CoRL), 2025
+- [Pseudo-Simulation for Autonomous Driving](https://arxiv.org/abs/2506.04218) Wei Cao, Marcel Hallgarten, Tianyu Li, Daniel Dauner, Xunjiang Gu, **Caojun Wang**, Yakov Miron, Marco Aiello, Hongyang Li, Igor Gilitschenski, Boris Ivanovic, Marco Pavone, Andreas Geiger, Kashyap Chitta, Conference on Robot Learning (CoRL), 2025
 
-[A Data-Driven Risk Assessment Method for Autonomous Vehicles Without Expert Rule Design](https://ieeexplore.ieee.org/abstract/document/10919981) **Caojun Wang**, Shuo Yang, Yanjun Huang, IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024
+- [A Data-Driven Risk Assessment Method for Autonomous Vehicles Without Expert Rule Design](https://ieeexplore.ieee.org/abstract/document/10919981) **Caojun Wang**, Shuo Yang, Yanjun Huang, IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024
 
 
 
