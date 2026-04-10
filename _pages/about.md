@@ -25,12 +25,13 @@ My research interest includes Autonomous Driving and Reinforcement learning.(<a 
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 [WorldEngine](https://github.com/OpenDriveLab/WorldEngine) is open-sourced! The missing infrastructure for Physical AI post-training in Autonomous Driving.
 - *2024.09*: &nbsp;🎉 Become a member of [OpenDriveLab](https://opendrivelab.com/)
 - *2024.08*: &nbsp;🎉 Enrolled in [Shanghai Innovation Institute](https://www.sii.edu.cn/)
 - *2023.09*: &nbsp;🎉 Enrolled in Tongji University
 
 # 📝 Publications 
-
+## Recent Highlights
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2024</div><img src='images/ITSC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,6 +40,20 @@ A Data-Driven Risk Assessment Method for Autonomous Vehicles Without Expert Rule
 <a href="https://ieeexplore.ieee.org/abstract/document/10919981"><img src="https://img.shields.io/badge/arXiv-white"></a>
 </div>
 </div>
+
+## Journal
+
+[Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/11353028) Haochen Liu, Tianyu Li, Haohan Yang, Li Chen, **Caojun Wang**, Ke Guo, Haochen Tian, Hongchen Li, Hongyang Li, Chen Lv, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2026
+
+[Quantitative Representation of Scenario Difficulty for Autonomous Driving Based on Adversarial Policy Search](https://www.proquest.com/openview/b9f5049ba10af639ce682a24a7fa7c0d/1?pq-origsite=gscholar&cbl=7427744) Shuo Yang, **Caojun Wang**, Yuanjian Zhang, Yuming Yin, Yanjun Huang, Shengbo Eben Li, Hong Chen, Research, 2024
+
+## Conference
+
+[Pseudo-Simulation for Autonomous Driving](https://arxiv.org/abs/2506.04218) Wei Cao, Marcel Hallgarten, Tianyu Li, Daniel Dauner, Xunjiang Gu, **Caojun Wang**, Yakov Miron, Marco Aiello, Hongyang Li, Igor Gilitschenski, Boris Ivanovic, Marco Pavone, Andreas Geiger, Kashyap Chitta, Conference on Robot Learning (CoRL), 2025
+
+[A Data-Driven Risk Assessment Method for Autonomous Vehicles Without Expert Rule Design](https://ieeexplore.ieee.org/abstract/document/10919981) **Caojun Wang**, Shuo Yang, Yanjun Huang, IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024
+
+
 
 # 🎖 Honors and Awards
 - *2022.08* 2022 RoboMaster Robotics Competition National 3rd Prize. 
