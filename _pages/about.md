@@ -36,7 +36,7 @@ My research interest includes Autonomous Driving and Reinforcement learning.(<a 
 <div class='paper-box-text' markdown="1">
 
 [World Engine: Towards the Era of Post-Training for Autonomous Driving](https://arxiv.org/abs/2606.19836) \\
-Tianyu Li, Li Chen, **Caojun Wang**, Haochen Liu, Kashyap Chitta, et al. \\
+Tianyu Li\*, Li Chen\*, **Caojun Wang**\*, Haochen Liu\*, Kashyap Chitta\*, et al. (\* equal contribution) \\
 <a href="https://arxiv.org/abs/2606.19836"><img src="https://img.shields.io/badge/arXiv-2606.19836-b31b1b.svg"></a> &nbsp; <a href="https://github.com/OpenDriveLab/WorldEngine"><img src="https://img.shields.io/badge/GitHub-WorldEngine-black?logo=github"></a> &nbsp; <a href="https://opendrivelab.com/WorldEngine/"><img src="https://img.shields.io/badge/Page-WorldEngine-blue"></a>
 </div>
 </div>
