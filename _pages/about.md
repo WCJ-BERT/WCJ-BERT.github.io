@@ -23,8 +23,11 @@ Currently, I'm supervised by Prof. [Hongyang Li](https://scholar.google.com/cita
 
 My research interest includes Autonomous Driving and Reinforcement learning.(<a href='https://scholar.google.com/citations?user=35xHlDUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+I currently lead the **nuPlan / MTGS Track** of the [AlpaSim E2E Closed-Loop Challenge 2026](https://huggingface.co/spaces/nvidia/AlpasimE2EClosedLoopChallenge2026).
+
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 Leading the **nuPlan / MTGS Track** of the [AlpaSim E2E Closed-Loop Challenge 2026](https://huggingface.co/spaces/nvidia/AlpasimE2EClosedLoopChallenge2026).
 - *2026.04*: &nbsp;🎉🎉 [WorldEngine](https://github.com/OpenDriveLab/WorldEngine) is open-sourced! The missing infrastructure for Physical AI post-training in Autonomous Driving.
 - *2024.09*: &nbsp;🎉 Become a member of [OpenDriveLab](https://opendrivelab.com/)
 - *2024.08*: &nbsp;🎉 Enrolled in [Shanghai Innovation Institute](https://www.sii.edu.cn/)
@@ -62,6 +65,9 @@ A Data-Driven Risk Assessment Method for Autonomous Vehicles Without Expert Rule
 
 - [A Data-Driven Risk Assessment Method for Autonomous Vehicles Without Expert Rule Design](https://ieeexplore.ieee.org/abstract/document/10919981) **Caojun Wang**, Shuo Yang, Yanjun Huang, IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024
 
+
+# 🌐 Academic Service
+- *2026*, **Track Lead**, nuPlan / MTGS Track, [AlpaSim E2E Closed-Loop Challenge 2026](https://huggingface.co/spaces/nvidia/AlpasimE2EClosedLoopChallenge2026).
 
 
 # 🎖 Honors and Awards
