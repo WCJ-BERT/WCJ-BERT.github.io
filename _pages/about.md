@@ -68,6 +68,7 @@ A Data-Driven Risk Assessment Method for Autonomous Vehicles Without Expert Rule
 
 # 🌐 Academic Service
 - *2026*, **Track Lead**, nuPlan / MTGS Track, [AlpaSim E2E Closed-Loop Challenge 2026](https://huggingface.co/spaces/nvidia/AlpasimE2EClosedLoopChallenge2026).
+- *2026 - Present*, **Leaderboard Maintainer**, NAVSIM: [navtest (v1)](https://huggingface.co/spaces/AGC2024-P/e2e-driving-navtest) and [navhard (v2)](https://huggingface.co/spaces/AGC2025/e2e-driving-navhard).
 
 
 # 🎖 Honors and Awards
