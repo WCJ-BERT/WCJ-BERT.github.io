@@ -81,5 +81,6 @@ A Data-Driven Risk Assessment Method for Autonomous Vehicles Without Expert Rule
 - *2019.09 - 2023.06*, B.E.(cum laude), Intelligent Manufacturing Engineering, School of Mechatronic Engineering and Automation, Shanghai University. 
 
 # 💻 Internships
+- *2026.04 - Present*, Research Intern, Archon Robotics.
 - *2025.06 - 2025.12*, Research Intern, Yinwang, China.
 - *2022.08 - 2022.12*, Research Intern, Garret Motion, China.
