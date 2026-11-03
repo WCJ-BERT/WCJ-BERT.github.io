@@ -27,6 +27,7 @@ I currently lead the **nuPlan / MTGS Track** of the [AlpaSim E2E Closed-Loop Cha
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 Introducing [Anchor 1](https://www.archon.tech/research/anchor1), our humanoid controller for precise and stable whole-body manipulation. [Paper](https://arxiv.org/abs/2611.00193).
 - *2026.09*: &nbsp;🎉 Leading the **nuPlan / MTGS Track** of the [AlpaSim E2E Closed-Loop Challenge 2026](https://huggingface.co/spaces/nvidia/AlpasimE2EClosedLoopChallenge2026).
 - *2026.04*: &nbsp;🎉🎉 [WorldEngine](https://github.com/OpenDriveLab/WorldEngine) is open-sourced! The missing infrastructure for Physical AI post-training in Autonomous Driving.
 - *2024.09*: &nbsp;🎉 Become a member of [OpenDriveLab](https://opendrivelab.com/)
@@ -35,6 +36,16 @@ I currently lead the **nuPlan / MTGS Track** of the [AlpaSim E2E Closed-Loop Cha
 
 # 📝 Publications 
 ## Recent Highlights
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Anchor1.jpg' alt="Anchor 1 real-world humanoid demonstrations" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Anchor 1: Precise and Stable Humanoid Control for Whole-Body Manipulation](https://arxiv.org/abs/2611.00193) \\
+Archon Robotics \\
+**Core contributor** \\
+<a href="https://arxiv.org/abs/2611.00193"><img src="https://img.shields.io/badge/arXiv-2611.00193-b31b1b.svg" alt="arXiv paper"></a> &nbsp; <a href="https://www.archon.tech/research/anchor1"><img src="https://img.shields.io/badge/Page-Anchor_1-blue" alt="Anchor 1 project page"></a>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/WorldEngine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
